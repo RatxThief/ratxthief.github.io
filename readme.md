@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial. It's fun, i promise.
 Added to test github commit.
 <br>
 Checking something else other than fetch
+
+Only a test to push new branch to github
